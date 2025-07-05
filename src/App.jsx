@@ -4,8 +4,8 @@ const App = () => {
 
 
   return (
-    <div>
-      <p>App Component</p>
+    <div className="text-green-700">
+      <p className="text-green-900">App Component</p>
     </div>
   );
 };
