@@ -9,8 +9,8 @@ const ShopContextProvider = ({ children }) => {
   
   const value = {
     products,
-    currency,      // Add this
-    delivery_fee   // Add this too if needed elsewhere
+    currency,      
+    delivery_fee   
   };
 
   return (
