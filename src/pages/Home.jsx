@@ -1,3 +1,4 @@
+import Hero from "../components/Hero";
 
 
 const Home = () => {
@@ -5,7 +6,7 @@ const Home = () => {
 
   return (
     <div>
-      <p>Home Component</p>
+      <Hero />
     </div>
   );
 };
